@@ -20,7 +20,7 @@ include('includes/header.php');
       left: 0;
       width: 100%;
       height: 100%;
-      background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity/fade as needed */
+      background-color: rgba(0, 0, 0, 0.5);
     }
 
     .overlay-content {
@@ -50,8 +50,6 @@ include('includes/header.php');
     overflow-x: hidden;
   }
   </style>
-
-    <!-- Volunteer Now -->
     <section>
           <div style="position: relative;">
             <div class="row">
@@ -73,4 +71,3 @@ include('includes/header.php');
             </div>
           </div>
         </section>
-      <!-- Volunteer Now -->
